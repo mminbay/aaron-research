@@ -1,0 +1,1217 @@
+commit dd74d37a535c97dc4cec06a500ebb5581a93a712
+Merge: b1afb39 2c2e737
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Sun Nov 28 19:54:43 2021 -0500
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit b1afb398101919ef651b41c0d8144bf5adee38ba
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Sun Nov 28 19:54:38 2021 -0500
+
+commit 2c2e737d0df86b79e3588760da4facdc899ba636
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Oct 14 21:47:19 2021 -0400
+
+    Versatile regenerate method
+
+commit 07545a37b58680e5e3fdfdb2baaff98937d291e8
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Oct 14 15:59:57 2021 -0400
+
+    Tweaks to Aruba parsing script
+
+commit fe1f68116c3a6339c3b7cd30cc6e0a7574c72df3
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 13 21:04:53 2021 -0400
+
+    Finished script for parsing Aruba configs
+
+commit 08a2e63b4d3cf039482b4ca42af8afd638527409
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Oct 12 09:29:59 2021 -0400
+
+    Add new CSL function to generate prefixes of varying length
+
+commit 03e48cd8484adbe887d6d950ad2a578c2d3418ca
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Oct 12 09:18:32 2021 -0400
+
+    Test cases and bug fixes for CSL code that generates binary strings
+
+commit 2bb298ce7a3bbaa68816a5835ca4ff1bf2e5b8f5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Oct 12 08:58:34 2021 -0400
+
+    Add Colgate configs to workspace
+
+commit 498f520bc448a27ac6c5dceff1b2b28d22bbc551
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Oct 7 11:20:35 2021 -0400
+
+    Partial script to extract Aruba switch configs
+
+commit 41393f67a855e8893ec1dc09c8325406e195f301
+Merge: e405c57 cd659ee
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Fri Oct 8 13:45:00 2021 -0400
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit e405c57bbe231d4f1a06dcadaa823fb8d182ddad
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Fri Oct 8 13:43:48 2021 -0400
+
+    Current updates to Stucco & Contrast_set_prog
+
+commit cd659ee81ee13b9dde09cfea3364e3e243932272
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 6 21:01:41 2021 -0400
+
+    Don't require ACL line to have dstIps
+
+commit 008a004cd098f5113fbc5cfc59829081d7c3e3d5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 6 20:50:51 2021 -0400
+
+    Fix bug in acls test config
+
+commit e6737db30c8602de4df3259f5f2ba33930b60559
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 6 20:35:15 2021 -0400
+
+    Updates to test_link_prediction to conform with new graph node names
+
+commit 9e9298c596fdcc45b087365b7a295a79ea6c6ae0
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 6 20:26:06 2021 -0400
+
+    Fixes to graph testcases and generate_graph
+
+commit 894f60ff5072650d5548a732a57406355cb2c5e9
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Oct 6 19:48:51 2021 -0400
+
+    Updates to analysis/graphing of link prediction results
+
+commit dfb1c8592bb7d1490c52cc8863d456eb1225dd0b
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Fri Sep 24 13:50:11 2021 -0400
+
+    added device name to graph nodes
+
+commit 6e105054ca5625dce73cf3c1f5fe0191e571d675
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Sep 23 20:47:34 2021 -0400
+
+    sample config graph method
+
+commit 9c4b92225e26060204698a95e179b4c6a0c5a74a
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jul 22 13:41:09 2021 -0400
+
+    Separating Methods out of main
+
+commit 9e2bdcb636040e241ba010f6cbfc3bc3e76f306c
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jul 22 13:37:05 2021 -0400
+
+    Adding comments
+
+commit bbfbcf5967697458e0e933644454b7d123981c5f
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jul 22 13:36:18 2021 -0400
+
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+
+commit 6a38f6c53fb716f16a2b11c2cedcfa217b61e7ea
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jul 21 12:45:47 2021 -0400
+
+    Add comments to link_prediction_sweep script
+
+commit 2b8cef54d3e2b357e4aee5ab10c0d50966575407
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jul 21 12:45:32 2021 -0400
+
+    Always print precision and recall
+
+commit 8b0f687ad851080c0b9df2295e1bf62a2f495b3b
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jul 21 12:45:12 2021 -0400
+
+    Fixed bug in adding of edges for keywords to graph
+
+commit e08e66aa8e85310797046fa8ebaa9afb3b876ce2
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Tue Jul 20 21:16:05 2021 -0400
+
+    Starting graphing for link prediction
+
+commit 0fb816a5d6c1c34826163e6ce96c0bbd783b7e5e
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Tue Jul 20 14:41:48 2021 -0400
+
+    Finished csv file
+
+commit 2a6c9dee43d9b5d0d83f672767bcc4b4629b9c50
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Tue Jul 20 02:21:54 2021 -0400
+
+    adding command line arguments
+
+commit c9302d2cc42fd01ef90a91f9cd7dc2919958c91d
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Mon Jul 19 15:42:22 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit 25936fe8e3fd4aad2172f1e6e1123bf2f4a4ce36
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Sat Jul 17 13:25:52 2021 -0400
+
+    Cleanup/fixes to link_prediction
+
+commit 7d0ad928425478a16ddcd1c02acce7898e2d41f7
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Sat Jul 17 13:05:33 2021 -0400
+
+    Re-import node2vec
+
+commit ed0062762a9e2603950a76ab4857fd73a976a600
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Sat Jul 17 13:03:05 2021 -0400
+
+    Ignore perfect matches during link prediction
+
+commit 9536bb6a0e87cbd38715074b28c235ebee7ced97
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 16 14:30:07 2021 -0400
+
+    Updates to script for sweeping over hyperparams
+
+commit 0cbb597b2aa2bb92e870949ee308dd2a79045510
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jul 16 16:02:22 2021 -0400
+
+    ranked dict per node
+
+commit 9b01df0367e5d862dd1a844fdf7b832b1ebc9b52
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Fri Jul 16 14:37:13 2021 -0400
+
+    num suggestions command line arg
+
+commit 4fa7aadad8422b81bb9147414871708407b646e6
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jul 14 15:30:57 2021 -0400
+
+    select top N link suggestions (N is last param for precision_recall funct)
+
+commit e3cae68ecaa795b93e81547b6bf7848c1c928fcd
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jul 14 14:53:11 2021 -0400
+
+    construct ranked link suggestion dict (celeb -> more important
+
+commit 6eee631e6a5f4c1db7267b0f5bea3223669927c4
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Sun Jul 11 20:39:15 2021 -0400
+
+    Script to sweep over params for node2vec-based link prediction
+
+commit a1bfd51a579d2db546dbb596a29daefb5fc532f0
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Sun Jul 11 20:20:55 2021 -0400
+
+    Allow link_prediction to take node2vec arguments from command line
+
+commit 0374a63922d35bcc8227e73816e0a4d66dcbad7f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 15:00:21 2021 -0400
+
+    Added node2vec option for finding common neighbors in link_prediction
+
+commit 146404b6cc3f1ecd82514a2f5ce7ef5384ee3450
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Fri Jul 9 14:06:10 2021 -0400
+
+    Updated stucco
+
+commit b9832a43882b72349c419e802686eff15463d6f4
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 13:48:32 2021 -0400
+
+    Added stucco as submodule
+
+commit 701a7e65c68d44b55e729db9d5de3c529187fbcf
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 11:32:30 2021 -0400
+
+    Update link_prediction test to use the clear_caches function
+
+commit 732a99ff0560a6c8246e5c8d13448de321bcdf0b
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 11:31:32 2021 -0400
+
+    Update link_prediction to load a graph JSON instead of generating a graph
+
+commit 7828ed39ea85b86e2b28f92e2ede442eb2e3a25c
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 11:30:54 2021 -0400
+
+    Fix bug in generate_graph
+
+commit a3e3e6df371bf3312a21a492a1c80dcbf1da50fa
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jul 9 11:18:04 2021 -0400
+
+    Add command-line arguments to generate_graph
+
+commit 1201f2434fa7f43c053d5c908fe530c28c0b83c5
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jul 8 19:27:19 2021 -0400
+
+    optional threshold command-line arg
+
+commit 7961812beef79b8dcbae6857d8bc7e9035919411
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jul 8 12:45:29 2021 -0400
+
+    command-line args for link_prediction
+
+commit bee9f7cd141a71a8d0af5e39917af8f85a95dc81
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jul 8 11:27:22 2021 -0400
+
+    Test cases for link prediction
+
+commit 9e8a35a49b0b0f616e7b231c44b206bea166d854
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jul 8 10:45:23 2021 -0400
+
+    Force download of stopwords
+
+commit ea106d9166d6de8fb2224ea2ab2f80aa57c0ee71
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jul 8 10:42:17 2021 -0400
+
+    Add required python packages
+
+commit 66e17a2a190dee83f5b47c5e89b4ca72e4000b72
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jul 8 10:39:43 2021 -0400
+
+    Update label on applied ACL edges and add label on allowed VLAN edges
+
+commit 0616faa3258f30d6955d547d53a3ca39cb76cf1c
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jul 8 10:36:09 2021 -0400
+
+    Added tests for graph generation and corrected graph generation errors
+
+commit 2a043e681a8af9c416ca3a7ec631bd5471b009ab
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jul 5 14:19:22 2021 -0400
+
+    Update extract keywords to conform with standard analyze_configs arguments
+
+commit 1c842895330eb2efdb65285fae9e1f5938f536b5
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jul 7 17:13:26 2021 -0400
+
+    Adding keywords
+
+commit 62cb6cbac171f7901fca2360c331bddf00ef21b0
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jul 7 15:04:06 2021 -0400
+
+    refined link prediction based on type
+
+commit 53ab25235dec878aaa5b5727a742233aa5ff906c
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jul 7 09:26:20 2021 -0400
+
+    split graph_mining into generate_graph + link_prediction
+
+commit 7e01cd5bdcfd94f0feb9595d6e870759323d189b
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue Jul 6 12:53:55 2021 -0400
+
+    modified precision_recall
+
+commit 41e608f7eec334c4ef3e144af17f7984393dabfd
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Mon Jul 5 13:07:45 2021 -0400
+
+    simplified rand_remove link function
+
+commit 2af0554c07cc6f76978d613d0edb627e068cc2cf
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jul 1 16:56:57 2021 -0400
+
+    Removed and Predicted Calculation
+
+commit c65785bf75261bb498b59cce7ea3433805f8445b
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jul 1 15:50:54 2021 -0400
+
+    Randomly delete function
+
+commit 3bf720029f786f22a27131639ae2ed17989ee943
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jun 30 16:10:00 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit eda74d7d70d231382b335d41377d49d555e12599
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jun 25 16:07:57 2021 -0400
+
+    link suggestion
+
+commit 2a13d5c09a2694f746a11da4145dcfdfc99a68ad
+Merge: 84783d7 823acf4
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Thu Jun 24 19:24:11 2021 -0400
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit 84783d798d85811cd26b221011ea379e1b1c4fd4
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Thu Jun 24 19:24:06 2021 -0400
+
+    CSL on extended DataFrame
+    
+    added support for binary octets and presence of ACLs
+
+commit 823acf490b1c5e206190946a4593747101299bdb
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jun 24 16:23:09 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit 30b3644161830dd4cfef49d1797505393b6785c7
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jun 24 14:39:34 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+
+commit 3d7947b3bc834752cc6fda62253a2db927b3dd06
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 24 13:09:09 2021 -0400
+
+    visual graph
+
+commit 9d5dc3c1cc18a3fa7f115f6331ee958cdb095cd0
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jun 23 11:27:53 2021 -0400
+
+    counting/identifying graph components
+
+commit dfd5683acc2aa77f50a4458ed486ab9d2a10e006
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jun 23 16:37:45 2021 -0400
+
+    Association Rule #2 change
+
+commit 4923b5d6ff64548c53adfb5922d4ea1d6ea17e74
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jun 23 13:28:50 2021 -0400
+
+    OSPF Association Rule #1
+
+commit 281dc57cee1d55b614b8f2554d4504932c7afac7
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Tue Jun 22 15:00:14 2021 -0400
+
+    keywords to ospf function
+
+commit d59abb710b8ed997fa8e2e337e42b230783c9e2e
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Jun 22 13:56:47 2021 -0400
+
+    Added config JSON structure to README
+
+commit c6033c5223c2c2900e111defe83901265eff0073
+Merge: 999260f 862c5b0
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Mon Jun 21 17:41:49 2021 -0400
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit 999260f945a24816daaaa103c193d67cd6043acd
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Mon Jun 21 17:41:39 2021 -0400
+
+    Modularized CSL code.
+
+commit 862c5b03f23dd78c6b82ea14ce2d7b8d1a32b8f8
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Fri Jun 18 20:38:04 2021 -0400
+
+    acl nodes + edges
+
+commit 24d9021ed8c54b43f608f9813d673912ff3c71d6
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jun 18 15:16:22 2021 -0400
+
+    Add to graph interfaces to keywords
+
+commit 09c387b1ead2ab7e382c3b82fb371e845aa56400
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 18 14:03:48 2021 -0400
+
+    Parse basic OSPF info
+
+commit 989d132bb10069c11680bda17be65828fa66d337
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Fri Jun 18 13:26:41 2021 -0400
+
+    updated interface and vlan graph construction
+
+commit be111b56df734424e929cb7b1a4c5133f634a95f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 18 11:16:49 2021 -0400
+
+    Update parsing script to allowing parsing of Internet2 configs
+
+commit 537095e52618307c0b40f5d90560dfb76373fa04
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 18 09:35:26 2021 -0400
+
+    Clean-up analyze_configurations to always require an extra param
+
+commit 4ce407ac67f5611356f62fd4442b7c506724151f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 18 09:30:29 2021 -0400
+
+    Finish adding support for network-wide analysis of keywords
+
+commit 0a7560df1fc510796c0b365f0426c2f25d13f12f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 17 16:38:02 2021 -0400
+
+    fill in graph
+
+commit dd9ad7ce053109667d545ace4b343278f28ed52f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 17 16:38:02 2021 -0400
+
+    fill in graph
+
+commit 2f8c20102f7bbe97386c317ff94a0a7e07af2bf7
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jun 17 14:31:52 2021 -0400
+
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+
+commit 1a93b1fc3f8de4874205b08cbc384a6cef62edd6
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 17 09:16:57 2021 -0400
+
+    Include exceptions in keyword confidence rules
+
+commit c3528ce52cb6d0e6092001455e009d3eac5fb82b
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 17 08:56:23 2021 -0400
+
+    Fixed bug in creation of IP range for analyze_keywords
+
+commit b598a60ee2fd44f0a3c509d5d9c0c43dab419a2f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 17 08:37:20 2021 -0400
+
+    Ignore confidence None
+
+commit 7956ba297844c220c3d1069233a74622647c5385
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 17 08:37:13 2021 -0400
+
+    Print exceptions and results from analysis threads
+
+commit 4878835a2194ec8213f2c5a4160a07804ea00693
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 17 08:13:17 2021 -0400
+
+    Fix analyze_vlans
+
+commit 5be226d6f43a220e570266fb742cd6fbb101617f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jun 16 15:02:22 2021 -0400
+
+    apriori implementation file
+
+commit 46dc388cf02e2b68d819e2534513f19abf44c36c
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jun 16 14:59:42 2021 -0400
+
+    apriori implementation for vlans
+
+commit 6a8cf91ad3d17b816986c63f625889b9adfa177f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 16 14:30:21 2021 -0400
+
+    Fixed broken keywords testcase
+
+commit 1ac2961ceb255dc7386179734d2bb3f510e8d02e
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jun 16 14:11:48 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit 0ce6f7fbcc304ab6371b70cafb896c1f1e4fb428
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 16 12:43:52 2021 -0400
+
+    Only interate over ACLs that are used when considering keywords
+
+commit 28aa8a49a51db21d2198f3b9de6fbc51e714b4a8
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 16 10:30:18 2021 -0400
+
+    Tweaks to keyword extraction
+
+commit fb905ffb4e5a551c81b531b799d084cf096029e2
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 16 09:41:52 2021 -0400
+
+    Make all analyze scripts produce standard output format
+
+commit 1801613b68f4cd76a09dc4961fbc9d694cea8acc
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 16 09:22:25 2021 -0400
+
+    Update analyze_keywords to work with directories or individual files
+
+commit 671c1816359bfe587c27b9957233f7a3453de778
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Jun 15 11:30:53 2021 -0400
+
+    Script to create number line of IP addresses assigned to interfaces
+
+commit 95ba426fc460da30bb68175a87f3ecdb2e3d7bce
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Jun 15 09:00:55 2021 -0400
+
+    Expand test suite for analyze_keywords
+
+commit 70d60cebc1b1b7a62902eab1fe06af3c3f2ecdab
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Tue Jun 15 09:00:43 2021 -0400
+
+    Clean-up analyze_keywords script
+
+commit 43046c6115855ea847899c84c02659cb81aa0cfe
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Mon Jun 14 17:49:43 2021 -0400
+
+    keywords range rule
+
+commit 70bb1865894fdf1811f68013daa17f28fff6fa3c
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 14:04:47 2021 -0400
+
+    Script to filter high-confidence rules
+
+commit 5831e2518a10372eaa2f79a3bfa8bf6402e4c71b
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 13:28:47 2021 -0400
+
+    Skip interfaces with large number of allowed VLANs
+
+commit a9f9a521a6afd48e569d3b15a3e71cf4c324d829
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 11:14:05 2021 -0400
+
+    Fix test suite
+
+commit 2fcfb9eabb57963a23d7e65b63593636533163bc
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 10:54:52 2021 -0400
+
+    Add support for analyzing multiple configs in parallel
+
+commit 16fa4439c1a6e3f287213c26c7d5d004460c7f24
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 10:08:03 2021 -0400
+
+    Added test script for analyze_vlans
+
+commit 385cffb6ce1e318125a7b658db8ef357cc918f3a
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 14 09:50:33 2021 -0400
+
+    Updated analyze_refs test case
+
+commit 079a1b21cbd1a6583e0a788bd0c208936e9cb7f4
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jun 11 14:47:37 2021 -0400
+
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+
+commit 7c8ed2f3d980a613a4ee0e2cc7435f6f932dfd24
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jun 11 13:32:42 2021 -0400
+
+    commit analyze keywords
+
+commit 7790a2f682436ccaaf6a80698cff9921f1b263c5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 11 13:33:25 2021 -0400
+
+    Partial unit tests for analyze keywords
+
+commit d7f8aea5277f967d611c32bff6ee4e88a41ec542
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 11 13:09:12 2021 -0400
+
+    Reorganized and fixed testing suite
+
+commit aaeca4b10b283e5cf33a05a481aa1654753c9280
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Fri Jun 11 12:02:12 2021 -0400
+
+    vlan confidence output
+
+commit 4e977696132353e1f5571b793ef3a6af2bf3ed47
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 11 11:33:31 2021 -0400
+
+    Renamed some scripts for consistency and clarity
+
+commit 27f9affcb897865788963d9bea09325fa588f73e
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 11 11:26:35 2021 -0400
+
+    Update analyze_keywords to take command-line arguments
+
+commit e61da7f61cd28013346e2ba94390c3cd069ac0e2
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 10 20:43:32 2021 -0400
+
+    analyzing vlan pairs
+
+commit 365a17ec8c06f9aac0aed48c6d361c43e6cd5c25
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Thu Jun 10 17:58:04 2021 -0400
+
+    keyword associations
+
+commit 0386f685fc35f7d103ab2ff439e1809ba9ed8903
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 14:39:20 2021 -0400
+
+    Add keywords test config
+
+commit cfbbcfbb2d4e668b8362b3429baf3a909f2a4cdf
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 14:38:48 2021 -0400
+
+    Fix merge conflict in keywords.py
+
+commit bf57a96f3e6d35b68815e53dbd2de13f200a6511
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 14:30:18 2021 -0400
+
+    Add VLANs test case
+
+commit 5419d21231a4a37542844361088b39860227315c
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 11:16:53 2021 -0400
+
+    Perform rounding of confidence
+
+commit 1e7c2a6f9d6818528dd206be469bc4c856e23c9d
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 11:10:46 2021 -0400
+
+    Fix is_in_range function
+
+commit b2f923f71b87e7181d218a8441016d15bd11a83a
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 11:04:38 2021 -0400
+
+    Better testcases and some bug fixes
+
+commit 2fcaecd56e2a6ef37413b21a61f0fd5472aa0b12
+Merge: 3fb6d4d 2ea2177
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 10:44:24 2021 -0400
+
+    Merge branch 'aaron_refactor' into main
+
+commit 2ea21773d5baf3f3a8f4e8e2384c6809ebb85b77
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 10:43:50 2021 -0400
+
+    Updated test cases and fixed fourth association
+
+commit 110aa55886aea5497d58af51d93de19633c8ebf6
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 10:23:47 2021 -0400
+
+    Refactor fourth association rule
+
+commit 89df23162009277aae331cf40c3d43e6a3e08793
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 10:10:23 2021 -0400
+
+    Refactor third association rule
+
+commit 298f64824a68d6cec9fa62062a935d81379065d8
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 10:05:34 2021 -0400
+
+    Refactor first and second association rules
+
+commit 6e6025eb79bbf5ba06e63220313c4ab0c640c4a5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 09:41:29 2021 -0400
+
+    More descriptive variable names
+
+commit 0185975924c14b41cc141de02d9802d3c99eea4c
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 09:38:48 2021 -0400
+
+    Update intraconfig_ref to only extract information
+
+commit 3fb6d4db0a654e413f7374d3b29a715ad4c2bd38
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 09:30:20 2021 -0400
+
+    Update workspace to use absolute paths
+
+commit 44d7d2ac11da9b9b8ec1ca1dcb452cc1819cc0db
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 09:25:46 2021 -0400
+
+    Extract access/allowed VLANs from configs
+
+commit dc393428107f6b722ab18cc9702d6f621c63c5ce
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 10 09:08:56 2021 -0400
+
+    Move parsing script and update README
+
+commit ca56f64c08a3fefdb2e75d5b59041b5a0e39a5d2
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Wed Jun 9 14:28:58 2021 -0400
+
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+
+commit 284f87e47576e160cd517d57ffede486bdd65933
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Wed Jun 9 11:33:44 2021 -0400
+
+    Update keywords.py to group VLAN names with interface descriptions and ACL remarks with ACL names
+
+commit b3a043cb7fa9f463ac34f4748433ca58f3cd4a9a
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Tue Jun 8 17:19:10 2021 -0400
+
+    Co-authored-by: Aaron Gember-Jacobson <agember@users.noreply.github.com>
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit 4caea4322b9a4e087febc27ffaeda4cb0616eb7e
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue Jun 8 14:38:44 2021 -0400
+
+    fixed bug in AR 3
+
+commit d30fb56e1a26a0c408c9731dbf58561a3ccdbf4c
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue Jun 8 11:47:05 2021 -0400
+
+    bug fixes--iterating over ACLs and ACL_Interface funct using json format
+
+commit 82a4569bb2c7317dd3ea174cc6f6135bceb330bf
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Tue Jun 8 02:57:03 2021 -0400
+
+    Added support for reading JSON output.
+    
+    Changed format of data storage
+    
+    Created a seperate function for computing confidence
+    
+    Added support for reading computing  confidence per device role
+
+commit 847aef085c5c4a1303a567060cb234be6fe8571b
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 17:10:05 2021 -0400
+
+    Skip over ACL lines with invalid wildcard masks
+
+commit dc06e63c81c20ed437c59ad0e5711b3e281f41b3
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 14:23:29 2021 -0400
+
+    Ignore directories called input or output
+
+commit 82ce00d0eea3d96989e22769e8b1647e8ac8f261
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 14:19:23 2021 -0400
+
+    Removed config files from repo
+
+commit 3772ff45afdf0aff8cbe6f32f6144b887f462bd0
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 14:15:50 2021 -0400
+
+    Add remarks to ACLs test case
+
+commit 140e0d8b94487d0039ad0879c86172413fc3f5a3
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 14:10:03 2021 -0400
+
+    Fix merge conflicts in iacl_match
+
+commit 5d15bec698700fe4ff9621b6e3b3d36ee5ba32e3
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 14:06:47 2021 -0400
+
+    Update parsing script to extract remarks
+
+commit 3c5183f2f5ab95d1a4b3fbeddf163ee1e51cc55a
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Mon Jun 7 14:03:20 2021 -0400
+
+    Acl name and remarks extraction
+
+commit c2c2008ce719722b5d3c5ce5acf3882284e7ee79
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Mon Jun 7 13:55:09 2021 -0400
+
+    updated json format
+
+commit 94373f36815b1064e044982ec0083a6c3889ad71
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 13:20:26 2021 -0400
+
+    Use NLTK to remove stopwords from interface descriptions
+
+commit 57f22842286bef04edfb1cb86c9acf672bc39700
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 13:00:47 2021 -0400
+
+    Update description/name extraction script to use JSON representation of configs
+
+commit 05cc11846d2d5ffdd40f6cbe4bbf3d8b5b957dfe
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 12:46:46 2021 -0400
+
+    Update parsing script to make a manual pass over configs to extract VLAN names
+
+commit c62938fe031ad06859a64a5d23728c013c6d15b7
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Mon Jun 7 11:26:54 2021 -0400
+
+    fixed bug + commented out print statements
+
+commit ec6011d52d4ce987aa90ad481a112d121f3c44ef
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 11:24:20 2021 -0400
+
+    Fixing path in test script to use JSON representation of configs
+
+commit fb0f1d9f423206e5d951287cb6d19909947e4bc6
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 11:22:29 2021 -0400
+
+    Update test script to use JSON representation of configs
+
+commit 181bf81738244febd44939294e19fb46e8b403df
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Mon Jun 7 11:18:35 2021 -0400
+
+    Updated iacl_match to use JSON format
+
+commit de152cc62c47305605d76101007244602052325d
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Mon Jun 7 11:06:02 2021 -0400
+
+    use of ipaddress module + README description
+
+commit de6ac03e113eab01fca46a8c0e03fd111aec3c0f
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 15:53:27 2021 -0400
+
+    Fix parsing corner cases
+
+commit 7f9f95cc0a1b62e3a142cecbe15b4a6e929cc8bf
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 15:33:23 2021 -0400
+
+    Updated parsing script to extract interfaces and ACLs
+
+commit f0bc5c5bacc4a781351fadf7d389ec65a4fb581a
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 14:46:26 2021 -0400
+
+    Started code to parse configs using Batfish
+
+commit d77dcbeb4b293b809c4a36f6a0bdd93ac6130ef8
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 13:38:34 2021 -0400
+
+    Add expected output for parsing test
+
+commit 34f610de3a586e903a8019b6bc2486837f611721
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 13:37:14 2021 -0400
+
+    Add Slack to Travis config
+
+commit 4a93ad80fc89791c069977862141063ca0da9cd6
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 13:34:28 2021 -0400
+
+    Added script to run parsing testcase
+
+commit bbd78d93c50dde3b20b16ca145358db2cf03cd67
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 13:11:42 2021 -0400
+
+    Properly name Travis config
+
+commit dd47235845580dd1b22d2f9fd4fc66e99ec045a5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 13:10:39 2021 -0400
+
+    Switch to pytest
+
+commit 076bae65843b5a81d5f605f213090ffedac7a5b7
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 12:55:49 2021 -0400
+
+    Don't assume first line of config is blank
+
+commit 6543d49d71ebfbb0f5390d3780bf309e5e951167
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 12:50:42 2021 -0400
+
+    Fixed parsing of IP addresses/wildcard masks in ACL lines
+
+commit f0df15c90265ad95aef56f0a507d4ff58b714b66
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 11:19:55 2021 -0400
+
+    Avoid division by zero exception
+
+commit b3996056de51c46f53773f09b3db599076578ee5
+Author: Emily Yu <eyu@colgate.edu>
+Date:   Fri Jun 4 12:49:36 2021 -0400
+
+    test
+
+commit 5d23955ba6df439b2ae3b1790fcb07296dbe71c5
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 11:16:29 2021 -0400
+
+    Ignore output dir and configs symlink
+
+commit 9455dfabdbc1f8411ccab4717d88d87c0b44103a
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 11:10:24 2021 -0400
+
+    Added test configs based on use cases and various ACL formats
+
+commit 06700e7c2f8869c6d9221358c6ce2b6ceadc9f16
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Fri Jun 4 10:49:20 2021 -0400
+
+    Unit test script for 3rd and 4th rules
+
+commit 9a616f92035d77bfb98e15ea65700d4bf88ccadd
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 3 16:55:02 2021 -0400
+
+    desc dict + vlan names for UWM
+
+commit 82908f67d0dce3ed7c86d98b81191df3a4b27335
+Merge: 2931d17 3b7e919
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 3 15:52:11 2021 -0400
+
+    working elementary description dictionary
+
+commit 2931d17922f379cf95b150825baa11259b0bc5bb
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu Jun 3 15:50:43 2021 -0400
+
+    working elementary description dictionary
+
+commit 3b7e91908b8b3d0e7af8a7e5a21a5c6b7e662aee
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 3 11:24:48 2021 -0400
+
+    Added a document of usecases to highlight limitations of Minerals and SelfStarter
+
+commit 8e4135cdb8ecfad99b44a554421902784c800640
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu Jun 3 10:08:18 2021 -0400
+
+    Create main function
+
+commit aaeaaedcc4e5be8dda5b79da611d45332da0280f
+Merge: c23be03 ba8b422
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jun 2 15:56:01 2021 -0400
+
+    fourth rule
+
+commit c23be039771c6734a904d15e58e590de707c8c7d
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed Jun 2 15:53:56 2021 -0400
+
+    fourth rule
+
+commit ba8b422161e18fb7a36f8b5215a3e18bba7cd4a9
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Wed Jun 2 15:51:57 2021 -0400
+
+    Path Traversal fully works. Use directory in commandline args
+
+commit b0bee30588dbaac3bb33967e250bd150cd6608a3
+Merge: 4bd4e41 5feae28
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue Jun 1 17:02:32 2021 -0400
+
+    Fixed AR 3
+
+commit 4bd4e41285739c89cb2b669fb57a0ebf12d81ca8
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue Jun 1 17:01:56 2021 -0400
+
+    Fixed AR 3
+
+commit 5feae28820bb69bdbab630173c21b487f8466970
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Tue Jun 1 15:41:10 2021 -0400
+
+    Rudimentary support for directory traversal
+
+commit 302274143ed3e09f7acbb5c55987ef4a63a895aa
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Mon May 31 19:25:16 2021 -0400
+
+    Fixed Syntax error and edge cases scenarios(in ratios)
+
+commit 1c03bf32b96f906b0987cb820b9c88f0c5f315e7
+Merge: 2a61015 93941a2
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Sat May 29 16:45:50 2021 -0400
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit 2a61015171c7a06ace2b1e57e4ef54a9e5f28ea8
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Sat May 29 16:45:45 2021 -0400
+
+    Seperated the intraconfig_refs into two helper functions.
+
+commit 93941a29ef17cecab788c1591a854e04d472953a
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Sat May 29 16:13:40 2021 -0400
+
+    3rd/4th? association rule fixed
+
+commit 8c9574c9cb8c00f4a09bd7ca29c08dbd1dc45e2f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu May 27 16:41:10 2021 -0400
+
+    second part of 3rd Association Rule + deleted old file
+
+commit 07cf1d6c0ffcc503d78cfa8508a212563fee026f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu May 27 16:30:27 2021 -0400
+
+    second part of 3rd Association Rule
+
+commit 4fc85fdfc51ae90ca466eed0203d10cccf39c847
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu May 27 14:10:31 2021 -0400
+
+    added regex matching
+
+commit 47df29fafbc55d5d807431088032dc18e7889d5a
+Merge: 5acec79 c9653a9
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu May 27 11:37:35 2021 -0400
+
+    Merge branch 'main' of https://github.com/colgate-cs-research/config-mining into main
+
+commit 5acec7999574f87212ea3ac25b9c419595c7cd40
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Thu May 27 11:36:35 2021 -0400
+
+    started association rule 3
+
+commit c9653a910ab4a17d1f642479a81524ece2577c17
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Wed May 26 16:08:40 2021 -0400
+
+    python interpreter
+
+commit 127b10540c0fd2086b30f42301c51434cb484161
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed May 26 16:07:26 2021 -0400
+
+    command-line args
+
+commit 8228e9b065512c7ddb13dc140d7e372906461816
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed May 26 14:51:10 2021 -0400
+
+    Cleaned up code + function comments try 2
+
+commit 3a59814cb9f9a3cbab0ac188ee8ad3ca0d53aece
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Wed May 26 14:49:24 2021 -0400
+
+    Cleaned up code + function comments
+
+commit 78146596308eed3f8dab461e966a469fb46f9f4d
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue May 25 15:32:36 2021 -0400
+
+    first 2 association rules done
+
+commit cd842dd8e20e81f0d470cb7b9e528e7b62408e56
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue May 25 13:05:15 2021 -0400
+
+    Deleted file
+
+commit 00737b1bf7378a0cf2353562bc4a55a7ad50775f
+Author: Devon Lee <dslee@colgate.edu>
+Date:   Tue May 25 13:00:50 2021 -0400
+
+    working dict
+
+commit 9e0adf059e48f9e59dcea0c912b58fb76405caa8
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Mon May 24 15:57:33 2021 -0400
+
+    Co-authored-by: dlee-cs <dlee-cs@users.noreply.github.com>
+
+commit ab047683f7f75dfdf2dd20cc1c46c4e1f9a02e95
+Author: jchauhan <jchauhan@colgate.edu>
+Date:   Mon May 24 14:55:35 2021 -0400
+
+    suport for regex matching: in Progres
+
+commit 8334b5536d2f00c59906fd3dbbf5f25f0f247b72
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu May 20 10:53:25 2021 -0400
+
+    Update README.md
+
+commit 19b82900d43a408dd259923a856f74573e750a48
+Author: Aaron Gember-Jacobson <agemberjacobson@colgate.edu>
+Date:   Thu May 20 10:52:54 2021 -0400
+
+    Initial commit
